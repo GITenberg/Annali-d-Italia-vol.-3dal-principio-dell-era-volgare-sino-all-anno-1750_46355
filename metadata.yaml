@@ -1,0 +1,38 @@
+_repo: Annali-d-Italia-vol.-3dal-principio-dell-era-volgare-sino-all-anno-1750_46355
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46355-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Muratori, Lodovico Antonio
+    aliases:
+    - Muratori, Ludovico Antonio
+    - Muratori, Luis Antonio
+    - Pritanio, Lamindo
+    - Lampridius, Antonius
+    - Valdesius, Ferdinandus
+    - Muratori, L. A. (Lodovico Antonio)
+    - Muratorio, Ludovico Antonio
+    birthdate: 1672
+    deathdate: 1750
+    gutenberg_agent_id: '40167'
+    url: http://www.gutenberg.org/2009/agents/40167
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46355'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- History'
+title: 'Annali d''Italia, vol. 3
+
+  dal principio dell''era volgare sino all''anno 1750'
+url: http://www.gutenberg.org/ebooks/46355
